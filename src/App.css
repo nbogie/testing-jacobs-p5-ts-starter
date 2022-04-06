@@ -1,0 +1,8 @@
+.mySketchComponent {
+  border: 10px solid black;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
